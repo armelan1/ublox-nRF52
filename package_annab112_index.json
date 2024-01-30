@@ -20,7 +20,7 @@
           "url": "https://github.com/armelan1/ublox-nRF52/blob/main/arduino-nRF5-ublox.zip",
           "archiveFileName": "arduino-nRF5-ublox.zip",
           "checksum": "MD5:53e8b8ca496bcea6c1823aeeb9c1c04e",
-          "size": "15215",
+          "size": "131736",
           "boards": [
             {"name": "ublox ANNA B112"}
           ],
